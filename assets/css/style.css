@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo h1{
+    font-size: 18px;
+}
+
+header{
+    background-color: rgb(33,37,41);
+}
+.text h2{
+    font-size: 50px;
+}
+
+.desc p{
+    font-size: 18px;
+}
+.welcome{
+    background-color: rgb(33,37,41);
+    color: white;
+}
+
+.icon i{
+    font-size: 42px;
+}
